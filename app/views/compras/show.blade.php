@@ -1,0 +1,1 @@
+/var/www/laravel/app/views/compras/show.blade.php

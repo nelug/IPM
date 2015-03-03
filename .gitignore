@@ -1,0 +1,7 @@
+/app/assets/components
+/bootstrap/start.php
+/public/css/main.css
+/public/js/main.js
+/vendor
+.env
+node_modules

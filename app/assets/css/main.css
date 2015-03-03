@@ -1,0 +1,33 @@
+.pointer {
+    cursor: pointer;
+}
+
+.dt-panel, .form-panel {
+	display: none;
+}
+
+.fa-shopping-cart {
+	color: #F2FF8F !important;
+}
+
+.fa-bar-chart {
+	color: #EEECF9 !important;
+}
+
+.fa-dollar {
+	color: #82F69B !important;
+}
+
+.panel-title {
+	color: #FFF !important;
+}
+
+#profile {
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+.fa-sign-out {
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
